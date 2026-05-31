@@ -1,5 +1,9 @@
 # 📰 TruthLens AI - Fake News Detection System
 
+## Project Preview
+
+![TruthLens AI](streamlit_app.png)
+
 ## Overview
 TruthLens AI is an NLP-powered Fake News Detection System that classifies news articles as Real or Fake using Machine Learning techniques.
 
