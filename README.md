@@ -1,5 +1,9 @@
 # 📰 TruthLens AI - Fake News Detection System
 
+## Live Demo
+
+[Click Here to Use the App](https://truthlens-ai-fake-news-detection-enn3ekiqccssbyxwxwsf6j.streamlit.app/)
+
 ## Project Preview
 
 ![TruthLens AI](streamlit_app.png)
