@@ -1,2 +1,12 @@
-# TruthLens-AI-Fake-News-Detection
-NLP-powered Fake News Detection System using Machine Learning and Streamlit
+# TruthLens AI - Fake News Detection
+
+A Machine Learning based Fake News Detection system built using Python, NLP, Scikit-Learn and Streamlit.
+
+Accuracy: 94.69%
+
+Technologies:
+- Python
+- NLP
+- TF-IDF
+- Scikit-Learn
+- Streamlit
